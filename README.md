@@ -1,87 +1,14 @@
 # Kursy programowania w Pythonie z Klubem Młodego Programisty
 
-*Kurs podstawowy - 10 modułów:*
+1. *Poziom podstawowy - 10 modułów:*
 
-1. Podstawy Python - skąd pobrać i jak zainstalować Python i IDLE (Integrated Developement and Learning Environment)
+Kurs „Programowanie w Pythonie z Klubem Młodego Programisty - poziom podstawowy” przeznaczony jest zarówno do nauki indywidualnej nastolatków w domu, jak i do realizacji całą grupą w szkole. Materiał może być realizowany w ramach informatyki w klasach 7-8 szkoły podstawowej. Każdy moduł składa się z trwającego około 40 minut filmu, co wymaga rozbicia pojedynczego modułu na kilka jednostek lekcyjnych, w zależności od możliwości grupy. Możliwe jest również zaproponowanie samodzielnej pracy z materiałem video przed lekcją, aby zaoszczędzić czasu na wspólne oglądanie. Kurs przeznaczony jest dla uczniów w wieku 12-15 lat.
 
-Tu skupimy się na przygotowaniu środowiska, a więc instalacji oprogramowania w Windows i Linux – najpopularniejszych systemach w szkołach.
+Kurs rozpoczynamy instalacją języka Python w systemie Linux lub Windows. Następnie uczymy się obsługi środowiska IDLE (podstawowego środowiska IDE dla Pythona) i wprowadzamy pojęcia zmiennej, typu danych i podstawowych operacji, jakie możemy na nich wykonywać. Zakładamy, że rozpoczynając kurs nie masz zainstalowanego języka Python w systemie Windows. Jeśli korzystasz z Lnuxa, w systemie masz już zainstalowanego Pythona, brakuje Ci jednak środowiska IDLE. Dlatego w pierwszych dwóch filmach skupimy się na instalacji, ujednoliceniu elementów i i nauce obsługi samego IDLE. Kolejne zadania związane są z realizacją podstawy programowej dla klas 7-8 SP.
 
-2. Podstawowe zmienne, typy danych,
+2. *Poziom średniozaawansowany - 10 modułów:*
 
-Tu poznamy sposoby pracy z IDLE: w trybie REPL oraz skryptowym; nauczymy się też definiować podstawowe zmienne.
+Kurs „Programowanie w Pythonie z Klubem Młodego Programisty - poziom średniozaawansowany” przeznaczony jest zarówno do nauki indywidualnej młodzieży w domu, jak i do realizacji całą grupą w szkole. Materiał może być realizowany w ramach informatyki w klasach 1-5 szkół ponadpodstawowych. Każdy moduł składa się z trwającego około 40 minut filmu, co pozwala wykorzystać pojedynczy moduł na jednej jednostce lekcyjnej. Kurs przeznaczony jest dla uczniów w wieku 15-19 lat.
 
-3. Środowisko IDLE - pierwszy prosty program
-
-Tu poznamy funkcję input() do wczytywania danych ze standardowego wejścia i stworzymy nasz pierwszy program. Poznamy konwencję F-String do wyświetlania informacji.
-
-4. Operatory arytmetyczne:
-
-Poznamy sposoby wczytywania danych z klawiatury, zamiany typów, operacji arytmetycznych. Obliczymy pola pewnych figur geometrycznych.
-
-5. Instrukcje warunkowe, typy logiczne, wcięcia i bloki kodu
-
-Rozbudujemy program z 3ciego modułu o instrukcje warunkowe, które będą „sterowały” naszym programem. Poznamy standardowe, wbudowane metody w Pythonie.
-
-6. Pętle - wyodrębnianie cyfr z liczb, listy
-
-Poznamy zaawansowane struktury danych (lista), pętle while oraz for. Wyodrębnimi cyfry  z liczby, poznamy nowe algorytmy.
-
-7. Algorytm Euklidesa w języku Python różnymi metodami
-
-Nauczymy się definiować własne funkcje, poznamy sposoby obliczania NWD. Wykorzystamy pętle oraz instrukcje warunkowe.
-
-8. Badanie podzielności liczb
-
-Zbudujemy funkcję, która będzie zwracać listę budowaną dynamicznie. Poznamy sposoby opisywania funkcji (ang. docstring).
-
-9. Moduły standardowe w języku Python i podstawy grafiki żółwia
-
-Wykorzystamy moduły standardowe – dodatkowe funkcjonalności Pythona. Poznamy sposoby ich wczytywania. Przyjrzymy się dokładniej modułowi turtle, który realizuje grafikę LOGO.
-
-10.Wizualizacja algorytmu euklidesa za pomocą Turtle
-
-Wykorzystamy moduł turtle do rysowania kolejnych wartości obliczanego NWD.
-
-----
-
-*Kurs średniozaawansowany - 10 modułów:*
-
-1. Podstawy - skąd pobrać i jak zainstalować PyCharm Community w Linux/Windows
-
-Tu skupimy się na przygotowaniu środowiska, a więc instalacji oprogramowania w Windows i Linux – najpopularniejszych systemach w szkołach.
-
-2. Listy - obliczanie ciągu Fibonacciego 
-
-Poznamy iteracyjne oraz rekurencyjne podejście do rozwiązywania problemów algorytmicznych. Użyjemy list.
-
-3. Szyfr Cezara i kod Morse'a - jak utajnić korespondencję, słowniki w Pythonie 
-
-Zapoznamy się z kodowanie znaków w komputerach systemem ASCII. Użyjemy słowników, zbudujemy także naszą aplikację webową (działającą w przegladarce). Wykonamy to w systemie Linux.
-
-4. Programowanie obiektowe - wprowadzenie do tworzenia klas
-
-Zapoznamy się ze sposobem definiowania klas, właściwości i metod, a więc ze sposobem programowania obiektowego. Użyjemy do tego środowiska IDLE.
-
-5. Szyfrowanie metodą przestawieniową - GADERY-POLUKI i inne harcerskie szyfry z wykorzystaniem programowania obiektowego 
-
-Utworzymy klasę z odpowiednimi metodami. Poznamy sposoby zapisu proggramów wykorzystujące Type Annotationts w Pythonie. Wykorzystamy klasę i zaszyfrujemy tekst.
-
-6. Wykorzystanie modułów standardowych https://docs.python.org/3/library/hashlib.html do weryfikacji poprawności przesyłanych informacji
-
-Wykorzystamy standardowy moduł Pythona hashlib w celu weryfikacji poprawności wysyłanych i odbieranych informacji. Poznamy sposoby odczytu danych z plików tekstowych.
-
-7. Wykorzystanie modułów zewnętrznych do budowania aplikacji okienkowych: PySimpleGUI - przykład użycia kodu z lekcji 5 oraz 6 do zbudowania pełnej aplikacji
-
-Wykorzystamy bibliotekę zewnętrzną PySimpleGUI i stworzymy aplikację desktopową (działającą w systemie komputera). Użyjemy kodu stworzonego w poprzednim materiale. Wykonamy to w systemie Windows.
-
-8. Wykorzystanie modułów zewnętrznych - Matplotlib - obliczanie funkcji, rysowanie wykresów...
-
-Nauczymy się dodawać moduły do instalacji Pythona bez użycia PyCharm. Stworzymy wykresy funkcji, napiszemy program obliczający układ dwóch równań metodą wyznaczników.
-
-9. Wykorzystanie modułów zewnętrznych - Matplotlib - wizualizacja danych na przykładzie ruchów Browna
-
-Wykorzystamy PyCharm do dodania nowego modułu i wykonamy wprogram wizualizujący tzw. "Ruchy Browna"
-
-10. Analiza danych wczytywanych z plików tekstowych - to przykłady zadań maturalnych z informatyki.
-
-Wykorzystując dostępną nam wiedzę z poprzednich modułów napiszemy programy, które wyszukają wśród danych tekstowych liczby zaprzyjaźnione, bliźniacze oraz najdłuższy spójny niemalejący ciąg.
+Kurs rozpoczynamy od instalacji środowiska IDE PyCharm w Linux lub Windows. Na początku kursu dla szkoły podstawowej zainstalowaliśmy Pythona, więc teraz nie będziemy już tego powtarzać. Jeśli chcesz się dowiedzieć, jak to zrobić, sprawdź w kursie podstawowym.
+Kurs jest kontynuacją kursu „Programowanie w Pythonie – poziom podstawowy”, w którym robiliśmy proste skrypty/programy w środowisku IDLE. W tym kursie skupimy się na projektach, które mogą być inspiracją dla różnych działań programistycznych. Wprowadzimy programowanie obiektowe, nie będziemy już omawiać tych konstrukcji, które pojawiły się w podstawowej części kursu. Wykorzystamy różne biblioteki/moduły, które dostępne są dla wszystkich na licencjach OpenSource, aby szybko budować działające aplikacje: desktopowe (a więc okienkowe, działające w systemie operacyjnym komputera stacjonarnego) oraz w technologii web (a więc działające jako strony internetowe).
