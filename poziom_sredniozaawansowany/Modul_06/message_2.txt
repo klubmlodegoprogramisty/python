@@ -1,0 +1,7 @@
+To jest wiadomość,
+zapisana z wykorzystaniem kodowania UTF-8.
+------------------------------------------
+
+This is a message coded in UTF-8. 
+
+Sample extended signs: ðæŋ’ə…łþó→↓←ß©ęœπżźć„”ńµ≤≥  
