@@ -1,8 +1,5 @@
 # Kursy programowania w Pythonie z Klubem Młodego Programisty
 
-## Kurs Python dla początkujących i zaawansowanych
-
-
 *Kurs podstawowy - 10 modułów:*
 
 1. Podstawy Python - skąd pobrać i jak zainstalować Python i IDLE (Integrated Developement and Learning Environment)
