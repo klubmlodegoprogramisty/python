@@ -1,1 +1,1 @@
-# python-poziom-podstawowy
+# python
