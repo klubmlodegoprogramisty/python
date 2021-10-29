@@ -2,10 +2,11 @@ print("To jest pierwsza linia.")
 
 # komentarz - nic nie wnosi, poza informacjami
 # definiujemy zmienne różnego typu
-language = "Python"
-year_of_birth = 1991
-version = 3.8
-is_cool = True
+
+language = "Python"     # str 	- ciąg znaków
+year_of_birth = 1991    # int  	- liczby całkowite
+version = 3.8           # float	- liczby ułamkowe
+is_cool = True          # bool 	- wartości logiczne
 
 print("Computer language named:", language, end=" ")
 print("was born in", year_of_birth, end=". ")
