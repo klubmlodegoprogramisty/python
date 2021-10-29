@@ -5,8 +5,8 @@ print("To jest pierwsza linia.")
 
 language = "Python"     # str 	- ciąg znaków
 year_of_birth = 1991    # int  	- liczba całkowita
-version = 3.8           # float	- liczba ułamkowa
-is_cool = True          # bool 	- wartość logiczna
+version = 3.8           # float	- liczba rzeczywista, zmiennoprzecinkowa
+is_cool = True          # bool 	- wartość logiczna (prawda/fałsz)
 
 print("Computer language named:", language, end=" ")
 print("was born in", year_of_birth, end=". ")
