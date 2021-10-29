@@ -4,9 +4,9 @@ print("To jest pierwsza linia.")
 # definiujemy zmienne różnego typu
 
 language = "Python"     # str 	- ciąg znaków
-year_of_birth = 1991    # int  	- liczby całkowite
-version = 3.8           # float	- liczby ułamkowe
-is_cool = True          # bool 	- wartości logiczne
+year_of_birth = 1991    # int  	- liczba całkowita
+version = 3.8           # float	- liczba ułamkowa
+is_cool = True          # bool 	- wartość logiczna
 
 print("Computer language named:", language, end=" ")
 print("was born in", year_of_birth, end=". ")
