@@ -10,6 +10,8 @@ Podczas zapisu mogą się pojawić różne blokady - trzeba na nie zwracać uwag
 
 W kolejnym oknie nic nie zmieniamy, wybieramy "NEXT"
 
+W oknie "**Advanced Options**" ustawiamy opcje i zmieniamy katalog instalacji na `C:\Python38`
+
 ![python_download_ver_adv](https://user-images.githubusercontent.com/5088643/138261814-6fae0d65-b19f-4601-b76b-24ca8a76985f.png)
 
 ## Po instalacji powinniśmy mieć dostępne środowisko IDLE.
