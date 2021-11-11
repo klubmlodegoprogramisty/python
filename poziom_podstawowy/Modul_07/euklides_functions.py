@@ -1,10 +1,10 @@
 def nwd_modulo(x, y):
-	while y > 0:
-		modulo = x % y
-		x = y
-		y = modulo
+    while y > 0:
+        modulo = x % y
+        x = y
+        y = modulo
 
-	return x
+    return x
 
 
 print("Hello, I will compute Euklides")
