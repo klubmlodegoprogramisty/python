@@ -1,36 +1,16 @@
 from sys import exit
 from turtle import *
 
-max_value = 400
-max_sum = (2 * max_value) + 10
-y_level = -300
+MAX_VALUE = 400
+MAX_SUM = (2 * MAX_VALUE) + 10
+Y_LEVEL = -300
 x_position = -300
-
-value_1 = int(input(f"Please give me fist number (max {max_value}): "))
-value_2 = int(input(f"Please give me second number (max {max_value}): "))
-
-if value_1 > max_value or value_2 > max_value:
-    print(f"Too high values - {max_value} maximum!")
-    exit(2)
-
-if value_1 + value_2 > max_sum:
-    print(f"Sum of values too high - {max_sum} maximum!")
-    exit(2)
-
-# tryb standardowy okna żółwia
-mode("standard")
-# prędkość rysowania: slowest, slow, normal, fast, fastest
-speed("slow")
-# tytuł okna
-title("Euklides animation")
-# ukrywamy znacznik żółwia
-hideturtle()
 
 
 def rectangle(start_x, value_1, value_2, colors):
     # value_1
     penup()
-    goto(start_x, y_level)
+    goto(start_x, Y_LEVEL)
     pendown()
     color(colors[0])
     begin_fill()
@@ -43,7 +23,7 @@ def rectangle(start_x, value_1, value_2, colors):
 
     # value_2
     penup()
-    goto(start_x, y_level + value_1 + 5)
+    goto(start_x, Y_LEVEL + value_1 + 5)
     pendown()
     color(colors[1])
     begin_fill()
@@ -55,6 +35,27 @@ def rectangle(start_x, value_1, value_2, colors):
     end_fill()
 
     return start_x + 10
+
+
+value_1 = int(input(f"Please give me fist number (max {MAX_VALUE}): "))
+value_2 = int(input(f"Please give me second number (max {MAX_VALUE}): "))
+
+if value_1 > MAX_VALUE or value_2 > MAX_VALUE:
+    print(f"Too high values - {MAX_VALUE} maximum!")
+    exit(2)
+
+if value_1 + value_2 > MAX_SUM:
+    print(f"Sum of values too high - {MAX_SUM} maximum!")
+    exit(2)
+
+# tryb standardowy okna żółwia
+mode("standard")
+# prędkość rysowania: slowest, slow, normal, fast, fastest
+speed("slow")
+# tytuł okna
+title("Euklides animation")
+# ukrywamy znacznik żółwia
+hideturtle()
 
 
 while value_1 != value_2:
