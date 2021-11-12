@@ -1,3 +1,4 @@
+![04_conv_error](https://user-images.githubusercontent.com/5088643/141530079-321dba0c-954e-4a60-b758-57073cb293aa.png)
 ## Materiały pomocnicze przydatne w tym module:
 
 * https://www.python.org/dev/peps/pep-0498/
