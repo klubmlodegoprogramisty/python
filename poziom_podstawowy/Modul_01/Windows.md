@@ -1,4 +1,4 @@
-# Wskazwki dla systemu MS-Windows:
+# Wskazówki dla systemu MS-Windows:
 
 1. Link do pobierania instalatora: https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe
 
