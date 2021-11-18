@@ -12,7 +12,7 @@ class Dog:
         print(f"Hello, I am {self.age} years old and I weigh {self.mass}.")
         print(f"My breed is: {self.breed}")
 
-    def update_age(self, new_age):
+    def update_age(self, new_age: int):
         data_type = type(new_age)
         if data_type is int:
             self.age = new_age
