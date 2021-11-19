@@ -18,7 +18,7 @@ Zapoznamy się z kodowanie znaków w komputerach systemem ASCII. Użyjemy słown
 
 Zapoznamy się ze sposobem definiowania klas, właściwości i metod, a więc ze sposobem programowania obiektowego. Użyjemy do tego środowiska IDLE.
 
-5. Szyfrowanie metodą przestawieniową - GADERY-POLUKI i inne harcerskie szyfry z wykorzystaniem programowania obiektowego
+5. Szyfrowanie metodą podstawieniową - GADERY-POLUKI i inne harcerskie szyfry z wykorzystaniem programowania obiektowego
 
 Utworzymy klasę z odpowiednimi metodami. Poznamy sposoby zapisu proggramów wykorzystujące Type Annotationts w Pythonie. Wykorzystamy klasę i zaszyfrujemy tekst.
 
