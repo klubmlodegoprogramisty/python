@@ -20,7 +20,7 @@ Zapoznamy się ze sposobem definiowania klas, właściwości i metod, a więc ze
 
 5. Szyfrowanie metodą podstawieniową - GADERY-POLUKI i inne harcerskie szyfry z wykorzystaniem programowania obiektowego
 
-Utworzymy klasę z odpowiednimi metodami. Poznamy sposoby zapisu proggramów wykorzystujące Type Annotationts w Pythonie. Wykorzystamy klasę i zaszyfrujemy tekst.
+Utworzymy klasę z odpowiednimi metodami. Poznamy sposoby zapisu programów wykorzystujące Type Annotations w Pythonie. Wykorzystamy klasę i zaszyfrujemy tekst.
 
 6. Wykorzystanie modułów standardowych https://docs.python.org/3/library/hashlib.html do weryfikacji poprawności przesyłanych informacji
 
