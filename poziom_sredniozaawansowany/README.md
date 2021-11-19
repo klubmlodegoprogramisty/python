@@ -28,7 +28,7 @@ Wykorzystamy standardowy moduł Pythona hashlib w celu weryfikacji poprawności 
 
 7. Wykorzystanie modułów zewnętrznych do budowania aplikacji okienkowych: PySimpleGUI - przykład użycia kodu z lekcji 5 oraz 6 do zbudowania pełnej aplikacji
 
-Wykorzystamy bibliotekę zewnętrzną PySimpleGUI i stworzymy aplikację desktopową (działającą w systemie komputera). Użyjemy kodu stworzonego w poprzednim materiale. Wykonamy to w systemie Windows.
+Wykorzystamy bibliotekę zewnętrzną PySimpleGUI i stworzymy aplikację desktopową (działającą w systemie komputera). Użyjemy kodu stworzonego w poprzednim materiale. 
 
 8. Wykorzystanie modułów zewnętrznych - Matplotlib - obliczanie funkcji, rysowanie wykresów...
 
