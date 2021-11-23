@@ -1,5 +1,5 @@
 from message_digest import *
-from przestawieniowe import *
+from podstawieniowy import *
 import PySimpleGUI as sg
 
 layout = [
