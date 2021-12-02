@@ -37,7 +37,7 @@ def rectangle(start_x, value_1, value_2, colors):
     return start_x + 10
 
 
-value_1 = int(input(f"Please give me fist number (max {MAX_VALUE}): "))
+value_1 = int(input(f"Please give me first number (max {MAX_VALUE}): "))
 value_2 = int(input(f"Please give me second number (max {MAX_VALUE}): "))
 
 if value_1 > MAX_VALUE or value_2 > MAX_VALUE:
