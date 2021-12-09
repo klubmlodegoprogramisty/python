@@ -32,7 +32,7 @@ Wykorzystamy bibliotekę zewnętrzną PySimpleGUI i stworzymy aplikację desktop
 
 8. Wykorzystanie modułów zewnętrznych - Matplotlib - obliczanie funkcji, rysowanie wykresów...
 
-Nauczymy się dodawać moduły do instalacji Pythona bez użycia PyCharm. Stworzymy wykresy funkcji, napiszemy program obliczający układ dwóch równań metodą wyznaczników.
+Wykorzystamy PyCharm do dodania nowego modułu i stworzymy wykresy funkcji, napiszemy program obliczający układ dwóch równań metodą wyznaczników.
 
 9. Wykorzystanie modułów zewnętrznych - Matplotlib - wizualizacja danych na przykładzie ruchów Browna
 
