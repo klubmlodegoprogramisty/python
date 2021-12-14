@@ -5,4 +5,5 @@
 * https://python.szkola.pl/course/zmienne-ich-rola-w-programach-przyklady/
 
 ----
-![04_conv_error](https://user-images.githubusercontent.com/5088643/141530079-321dba0c-954e-4a60-b758-57073cb293aa.png)
+![sp_04](https://user-images.githubusercontent.com/5088643/145977236-b5e647b2-f7aa-441e-8c39-f6e020ddb64f.png)
+
