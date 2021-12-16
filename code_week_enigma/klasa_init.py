@@ -3,7 +3,7 @@ class Klasa:
         self.property = parameter
 
     def method(self):
-        print("Property value is:", self.property)
+        print(f"Property value is: {self.property}"")
 
 
 print(" ")

@@ -1,3 +1,6 @@
+from python_enigma import enigma
+
+
 encrypted_text = "PTBOV ZSXUW KKRNH ABFOC WRWEF PJPVN THX"
 
 rotors_settings = {1: [("I", "A"), ("II", "B"), ("III", "C")],
@@ -14,7 +17,8 @@ combination_number = 0
 for rotors_setting in rotors_settings:
     for reflector in reflectors:
         combination_number += 1
-        machine = Enigma(
+        machine = enigma.Enigma(
+            catalog="default",
             stecker="AQ BJ",
             rotors=rotors_settings[rotors_setting],
             reflector=reflectors[reflector],
