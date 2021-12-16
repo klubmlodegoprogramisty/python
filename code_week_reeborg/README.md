@@ -8,3 +8,9 @@
 Adres platformy: http://robot.abixedukacja.eu
 
 ----
+Podstawowy świat z wykorzystaniem środowiska blokowego
+![00_center_bloki](https://user-images.githubusercontent.com/5088643/146333399-4d152ce5-71f3-4a39-9600-3c8e48b251e3.png)
+
+Ten sam świat z kodem w języku Python
+![01_center_python](https://user-images.githubusercontent.com/5088643/146333530-330223fa-f7e2-4d19-a685-35e92d8532d7.png)
+
