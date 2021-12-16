@@ -6,7 +6,3 @@
 * https://www.gov.pl/web/cyfryzacja/piekne-umysly.-lwowska-szkola-matematyczna
 * https://kodujwpythonie.pl/enigma/rozdzial_00.pdf
 
-----
-## Platforma z edytorem kodu zawierającym moduł Enigmy:
-
-https://bit.ly/python-enigma
