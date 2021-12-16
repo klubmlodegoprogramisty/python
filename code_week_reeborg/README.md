@@ -1,6 +1,6 @@
 # Świat Reeborga
 
-## Projekt open source, gdzie możemy sterować robotrm na ekranie używając środowiska blokowego oraz języków programowania:
+## Projekt open source, gdzie możemy sterować robotem na ekranie używając środowiska blokowego oraz języków programowania:
 
 * Python
 * Javascript
