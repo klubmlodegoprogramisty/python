@@ -2,6 +2,7 @@ def graph_system_equation() -> None:
     import matplotlib.pyplot as plt
 
     def indicators(a1: int, b1: int, c1: int, a2: int, b2: int, c2: int) -> tuple:
+        """obliczamy układ równań metodą wyznaczników"""
         w = a1 * b2 - b1 * a2
         wx = c1 * b2 - b1 * c2
         wy = a1 * c2 - c1 * a2
@@ -31,7 +32,7 @@ def graph_system_equation() -> None:
     plt.plot(X0, Y2)
     plt.grid(True)
     plt.title(f"Wynik rozwiązania układu równań to punkt {result_point}")
-    plt.legend(["Wynik funkcji f(x)=1.25*x-2", "Wynik funkcji f(x)=-2*x+11"])
+    plt.legend(["Punkt","Wynik funkcji f(x)=1.25*x-2", "Wynik funkcji f(x)=-2*x+11"])
     plt.show()
 
 graph_system_equation()
